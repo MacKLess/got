@@ -1,0 +1,51 @@
+.container {
+  overflow:hidden;
+  border: 1px solid #ccc;
+  padding: 0 !important;
+  border-radius: 1rem;
+}
+.banner img {
+  width: 100%;
+  height: 35rem;
+}
+.main {
+  width: 100%;
+  height: 70rem;
+  background-image: url(../img/Template_Background.png);
+  background-size: 100%;
+  background-repeat: no-repeat;
+  padding: 4rem 9rem;
+  text-align: center;
+  color: #000;
+
+}
+.hide {
+  display:none;
+}
+h1 {
+  margin-bottom: 12rem !important;
+}
+.page p{
+  font-size: 2rem;
+  font-style: oblique;
+  line-height: 3.5rem;
+}
+button {
+  border-radius: 0.6rem !important;
+  width: 13rem !important;
+  font-size: 2rem !important;
+  font-weight: bold !important;
+  background: #000 !important;
+  color: #d6d6d6 !important;
+  border-color: #464646 !important;
+  margin-top: 4rem !important;
+}
+.page label {
+    display: block;
+    text-align: left;
+    margin-left: 28%;
+    margin-top: 5rem;
+    font-size: 1.9rem;
+    font-weight: 500;
+    font-style: oblique;
+  }
